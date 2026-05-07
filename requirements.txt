@@ -1,0 +1,7 @@
+flask>=3.0.0
+flask-cors>=4.0.0
+deepface>=0.0.93
+opencv-python>=4.10.0.84
+numpy>=2.1.0
+tf-keras>=2.18.0
+mtcnn>=0.1.1
